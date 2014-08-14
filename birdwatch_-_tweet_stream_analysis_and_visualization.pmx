@@ -1,4 +1,3 @@
----
 name: Birdwatch - Tweet stream analysis and visualization
 description: "BirdWatch is an open-source reactive web application that consumes the
   Twitter Streaming API for a selection of terms. It processes those matching tweets
@@ -38,6 +37,7 @@ documentation: |+
 
   + Expose port 9000 in your VM
   + Update Environment variables with your twitter credentials
+  + Navigate to [http://localhost:9000](http://localhost:9000)
 
 images:
 - name: argvader_birdwatch_latest
